@@ -76,6 +76,7 @@ form.sign-up-form {
 .logo {
   display: flex;
   align-items: center;
+  
 }
 
 .logo img {
@@ -91,6 +92,7 @@ form.sign-up-form {
 .logo h4 {
   font-size: 1.1rem;
   margin-top: -9px;
+  margin-top: 2px;
   letter-spacing: -0.5px;
   color: #151111;
 }
